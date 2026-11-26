@@ -1,9 +1,9 @@
 {
-  "id": "custom.hide-date-range",
+  "id": "custom.range",
   "name": "HideDateRange",
   "description": "Locally hides messages and calls between specific dates.",
   "version": "1.0.0",
-  "main": "hide-date-range.js",
+  "main": "range.js",
   "authors": [
     {
       "name": "Custom"
